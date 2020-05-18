@@ -1,0 +1,19 @@
+.plus {
+  color: #2ecc71;
+}
+
+.minus {
+  color: #c0392b;
+}
+
+.deleteBtn {
+  background-color: #e74c3c;
+  border: 0;
+  color: #fff;
+  font-size: 20px;
+  line-height: 20px;
+  padding: 2px 5px;
+  transition: opacity 0.3s ease;
+}
+
+

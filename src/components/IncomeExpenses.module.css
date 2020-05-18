@@ -1,0 +1,22 @@
+
+
+.incomeExpense {
+  display: flex;
+}
+
+
+
+.money {
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin: 5px 0;
+}
+
+.money.plus {
+  color: #2ecc71;
+}
+
+.money.minus {
+  padding-left: 10%;
+  color: #c0392b;
+}
